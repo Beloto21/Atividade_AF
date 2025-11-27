@@ -1,5 +1,7 @@
 # Atividade_AF
 
-<h1>Código Fonte Refatorado - Terminal</h1>
-<img width="1470" height="340" alt="image" src="https://github.com/user-attachments/assets/8c48717c-2ca9-49ea-8c05-d4f5318bb359" />
+<h2>Código Fonte Refatorado - Terminal</h2>
+<img width="1389" height="325" alt="image" src="https://github.com/user-attachments/assets/6ab0b1ad-a564-4916-b5bf-b5ba35e0f292" />
+
+
 
